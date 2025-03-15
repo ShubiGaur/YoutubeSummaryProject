@@ -11,9 +11,8 @@
     },
     "author": "Shubham Gaur",
     "action": {
-      "default_popup": "popup.html",
-      "default_title": "Youtube Summary",
-		"default_icon": ".png"
+      "default_popup": "index.html",
+      "default_title": "Youtube Summary"
     },
     "content_scripts": [
       {
