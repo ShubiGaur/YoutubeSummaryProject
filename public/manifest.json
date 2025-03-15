@@ -9,8 +9,11 @@
     "background": {
       "service_worker": "background.js"
     },
+    "author": "Shubham Gaur",
     "action": {
-      "default_popup": "popup.html"
+      "default_popup": "popup.html",
+      "default_title": "Youtube Summary",
+		"default_icon": ".png"
     },
     "content_scripts": [
       {
